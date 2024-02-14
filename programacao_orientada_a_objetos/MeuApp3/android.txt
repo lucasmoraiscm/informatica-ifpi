@@ -1,0 +1,3 @@
+title=MeuApp3
+author=Lucas
+orientation=portrait
